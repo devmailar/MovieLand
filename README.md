@@ -8,6 +8,3 @@ This is a login form connected to a MySQL database. With which we build a connec
 
 # Preview
 ![Screenshot 2022-02-19 at 15-45-00 Movie App](https://user-images.githubusercontent.com/83369389/154803394-28a5ac28-4b43-4896-978a-f886b102235e.png)
-
-# URL 
-https://movieapp-project.netlify.app/
